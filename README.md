@@ -92,7 +92,7 @@ sp500-stock-segmentation/
 ├── CRM_CW1_final.ipynb
 ├── requirements.txt
 ├── README.md
-└── .gitignore
+└── 
 ```
 
 
